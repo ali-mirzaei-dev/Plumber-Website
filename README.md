@@ -8,7 +8,7 @@
 
 - [Demo Project](https://ali-mirzaei-dev.github.io/Plumber-Website/)
 
-- Developed by pouria farahani
+- Developed by Ali Mirzaei
 
 - Created - 2022-11-26
 
