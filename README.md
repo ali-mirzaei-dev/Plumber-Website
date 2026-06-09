@@ -1,19 +1,73 @@
-# Plumber-Website# 
+# 🚰 Plumber Website
 
-**If you have a lot of information to display on your site, why don't you use my accordion menu**
+A simple frontend landing page for a plumbing service built using **HTML and CSS**.  
+This project was created to practice layout design, structure, and basic UI styling.
 
-![viewfinal]()
+---
 
-![view final]()
+## 🌟 Overview
 
-- [Demo Project](https://ali-mirzaei-dev.github.io/Plumber-Website/)
+This website is a static landing page for a plumber service.  
+It focuses on clean layout structure, section organization, and visual presentation.
 
-- Developed by Ali Mirzaei
+⚠️ Note: This project is **not responsive** (desktop-only design).
 
-- Technologies Used - HTML , CSS
+---
 
-- Hooks Used : useState 
+## 🚀 Live Project
 
-- Role - Frontend
+👉 https://ali-mirzaei-dev.github.io/Plumber-Website/
 
-- How to reach me : with my [instagram](https://www.instagram.com/ali.mirzaei.dev) and [linkedin](https://www.linkedin.com/in/)
+---
+
+## 📸 Screenshots
+
+### 🏠 Hero / Home Section
+![Home](https://github.com/user-attachments/assets/51187635-4042-43f5-a9c0-ecae639f0f9a)
+
+---
+
+### 🔧 Services / Middle Section
+![Services](https://github.com/user-attachments/assets/5a257732-5c91-4e27-8401-c61ee5e09f95)
+
+---
+
+### 📞 Contact / Footer Section
+![Contact](https://github.com/user-attachments/assets/6f9ee4d4-ac61-4b5e-ad76-66cfba80c77c)
+
+---
+
+## ✨ Features
+
+- Clean and structured landing page layout  
+- Simple hover effects and UI styling  
+- Multiple sections (Home, Services, Contact)  
+- Beginner-friendly HTML & CSS project  
+- Focus on visual design and spacing  
+
+---
+
+## 🛠️ Built With
+
+- HTML5  
+- CSS3  
+
+---
+
+## 👨‍💻 Developer
+
+Developed by **Ali Mirzaei**
+
+---
+
+## 📌 Project Status
+
+✔ Completed  
+❌ Not responsive (desktop-only)  
+🔄 Future improvement: add responsiveness and JavaScript features  
+
+---
+
+## ⭐ Feedback
+
+If you like this project, feel free to give it a ⭐ on GitHub.
