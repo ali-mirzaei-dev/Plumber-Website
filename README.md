@@ -10,8 +10,6 @@
 
 - Developed by Ali Mirzaei
 
-- Created - 2022-11-26
-
 - Technologies Used - HTML , CSS
 
 - Hooks Used : useState 
