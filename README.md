@@ -28,12 +28,12 @@ It focuses on clean layout structure, section organization, and visual presentat
 ---
 
 ### 🔧 Services / Middle Section
-![Services](https://github.com/user-attachments/assets/5a257732-5c91-4e27-8401-c61ee5e09f95)
+![Contact](https://github.com/user-attachments/assets/6f9ee4d4-ac61-4b5e-ad76-66cfba80c77c)
 
 ---
 
 ### 📞 Contact / Footer Section
-![Contact](https://github.com/user-attachments/assets/6f9ee4d4-ac61-4b5e-ad76-66cfba80c77c)
+![Services](https://github.com/user-attachments/assets/5a257732-5c91-4e27-8401-c61ee5e09f95)
 
 ---
 
